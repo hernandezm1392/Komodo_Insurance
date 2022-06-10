@@ -8,7 +8,7 @@ Team Member #1 [NAME]
 
 - Assigned Tasks 
 o Completion Date: WIP / [completion date] 
-▪ [6/10/21]: [Komodo Insurance.UI] */consider your commit message 
+▪ [6/10/21]: [Komodo Insurance.UI]
 • Ex: 11/29: POCO [filename].cs – structured constructors and 
 properties. 
 o *additional / optional 

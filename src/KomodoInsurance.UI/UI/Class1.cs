@@ -171,9 +171,68 @@ using System.Threading.Tasks;
             AddDeveloperToDatabase(newDeveloper);
             if(isSuccessful)
             {
-                System.Console.WriteLine($"Developer:{newDeveloper.Name});
+                System.Console.WriteLine($"Developer:{newDeveloper.Name} was added to the database);
             }
+            else
+            {
+                System.Console.WriteLine("Store failed to be added to the database.");
+            }
+
+            PressAnyKey;
+        }
+
+        private void ViewAllStore() // Switch Option 2
+        {
+            Console.Clear();
+
+            System.Console.WriteLine("=== Developer List");
+
+            var DeveloperInDB = _dRepo.GetAllStores();
+
+            foreach(Developer d in DeveloperInDB)
+            {
+                DisplayStoreListing(D);
+            }
+
+            PressAnyKey();
+        }
+
+        private void DisplayDeveloperListing(Developer developer)
+        {
+            System.Console.WriteLine($"Developer ID:{developer.ID} \n Developer Name: {developer.Name} \n");
+        }
+
+        private void ViewDeveloperByID()
+        {
+            Console.Clear();
+            System.Console.WriteLine("===Developer Details===");
+            var developer = _dRepo.GetAllDevelopers();
+
+            foreach(Developer s in developer)
+            {
+                DisplayDeveloperListing(d);
+            }
+
+            try
+            {
+                System.Console.WriteLine("Please select a developer by ID: \n");
+                int userInput = int.Parse(Console.ReadLine());
+                var selectedDeveloper = _dRepo.getDeveloperbyID(userInput);
+
+                if(selectedDeveloper !=null)
+                {
+                    DisplayStoreDetails(selectedDeveloper);
                 }
+                else
+                {
+                    System.Console.WriteLine($"Sorry, the developer with the ID:{userInput} doesn't exist.");
+                }
+            }
+            catch
+            {
+                cw
+            }
+        }
             }
 
         }        
