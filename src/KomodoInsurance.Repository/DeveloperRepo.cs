@@ -1,15 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-public class Developer
-{
-    public Developer(){}
-    public Developer(string firstName, string lastName)
+
+    public class DeveloperREPO
     {
-        FirstName = firstName;
-        LastName = lastName;
-    }
+        private readonly List<Developer> _developerDatabase = new List<Developer>();
 
-    public int ID { get; set; }
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public bool PluralsightAccess { get; set; }
-}
+        private int _count = 0;
+
+        public bool AddDeveloperToDatabase(Developer developer)
+        {
+            if(developer != null)
+            {
+                _count++;
+                developer.ID = _count;
+                _developerDatabase.Add(developer);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public List<Developer> GetAllDevelopers()
+        {
+            return _developerDatabase;
+        }
+
+        public Developer GetDeveloperByID(int id)
+        {
+            foreach(Developer d in _developerDatabase)
+            {
+                if(d.ID == id)
+                {
+                    return d;
+                }
+            }
+
+            return null;
+        }
+
+        // public bool PluralsightAccess()
+        // {
+        //     if(PluralsightAccess == true)
+        //     {
+        //         return true;
+        //     }
+        //     else
+        //     {
+        //         return false;
+        //     }
+        // }
+    }

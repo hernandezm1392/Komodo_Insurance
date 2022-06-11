@@ -1,14 +1,30 @@
-# Komodo_Insurance
- [Komodo Insurance Project ]   
-Group Work:  
-- [Mike Hernandez, Natassia Caldwell, Liz Ladd]  
-Team Member #1 [NAME] 
- https://github.com/hernandezm1392/Komodo_Insurance
- https://www.linkedin.com/in/mhernandez326/
+#  **Komodo Insurance Project**
+    In this project, we were tasked to make a Console App to help a Management Team manage their developers and the teams that they are assigned to. 
 
-- Assigned Tasks 
-o Completion Date: WIP / [completion date] 
-▪ [6/10/21]: [Komodo Insurance.UI]
-• Ex: 11/29: POCO [filename].cs – structured constructors and 
-properties. 
-o *additional / optional 
+###  **Group Work:**
+    -Liz Ladd(POCOs and Debugging)
+    -Mike Hernandez(UI and Debugging)
+    -Natassia Caldwell(REPOS, README and Debugging)
+
+## **LIZ LADD:**
+    [GitHub](https://github.com/maeladd/KomodoInsurance)
+    -POCOS
+        -
+        -
+        -
+        -
+
+## **MIKE HERNANDEZ:**
+    [GitHub](https://github.com/hernandezm1392/Komodo_Insurance)
+    -UI
+        - [6/8] Generated and delegated direction for Team work
+        - [6/9-6/11/22] UI coding on .cs file and performed debugging
+
+## **NATASSIA CALDWELL:**
+    [GitHub](https://github.com/ncaldwell0922/KomodoInsuranceProject)
+    -REPO AND README
+        -[6/8][created POCOS, created POCOs tests, Repos created]
+        -[6/8][Debugged POCOs and REPOs, fixed errors and ran code in terminal successfully]
+        -[6/10][First half of UI finished and debugged/ UI fuctions in terminal]
+        -[6/10][finsihed UI/Runs in terminal/debugged]
+        -[6/11][README created and pushed to github for team members to update their portions]

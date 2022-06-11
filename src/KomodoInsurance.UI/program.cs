@@ -1,2 +1,2 @@
-Program_UI UI = new Program_UI();
+ProgramUI UI = new ProgramUI();
 UI.Run();
