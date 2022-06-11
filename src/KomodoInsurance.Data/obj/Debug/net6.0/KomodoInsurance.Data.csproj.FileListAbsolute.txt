@@ -1,0 +1,12 @@
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/bin/Debug/net6.0/KomodoInsurance.Data.deps.json
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/bin/Debug/net6.0/KomodoInsurance.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/bin/Debug/net6.0/ref/KomodoInsurance.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/bin/Debug/net6.0/KomodoInsurance.Data.pdb
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.csproj.AssemblyReference.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.AssemblyInfoInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.AssemblyInfo.cs
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.csproj.CoreCompileInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/ref/KomodoInsurance.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/dotnetProjects/projects/KomodoInsurance/src/KomodoInsurance.Data/obj/Debug/net6.0/KomodoInsurance.Data.pdb

@@ -1,3 +1,7 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Xunit;
 
 public class KomodoInsuranceTestingSite
@@ -5,7 +9,7 @@ public class KomodoInsuranceTestingSite
     [Fact]
     public void CreateADeveloper()
     {
-        Developer developers = new Developer("Stan", "Smith");
+        Developer developers = new Developer(1, "Stan", "Smith", Pluralsight.Has_Access);
         developers.ID = 1234;
 
         int expectedDevID = 1234;

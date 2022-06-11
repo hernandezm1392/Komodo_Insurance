@@ -19,6 +19,7 @@
     -UI
         - [6/8] Generated and delegated direction for Team work
         - [6/9-6/11/22] UI coding on .cs file and performed debugging
+        - [Completed README and uploaded to github]
 
 ## **NATASSIA CALDWELL:**
     [GitHub](https://github.com/ncaldwell0922/KomodoInsuranceProject)
